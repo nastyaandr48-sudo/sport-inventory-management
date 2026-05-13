@@ -15,7 +15,7 @@
 
  📊 Трекер задач
  Учет аренды спортивного оборудования и расписания залов
-https://github.com/users/nastyaandr48-sudo/projects/3
+https://github.com/users/nastyaandr48-sudo/projects/2/views/1?layout_template=board
 🛠 Технологии (пример)
 • Язык программирования: Python / JS
 • СУБД: PostgreSQL
